@@ -6,6 +6,8 @@
 
 4) Make sure that "sm_alttp_randomizer_msu1.msu" exist in the "smz3_msu" directory folder (if missing, create an empty file with that name and extension).
 
+5) Wait for the program to finish.
+
 Original program from ABOhiccups: https://github.com/ABOhiccups/MSU1-PCM-Rename-Generator
 
 (TODO:
