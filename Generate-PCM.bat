@@ -33,6 +33,16 @@ ren *-27.pcm sm_alttp_randomizer_msu1-127.pcm
 ren *-28.pcm sm_alttp_randomizer_msu1-128.pcm
 ren *-29.pcm sm_alttp_randomizer_msu1-129.pcm
 ren *-30.pcm sm_alttp_randomizer_msu1-130.pcm
+ren *-31.pcm sm_alttp_randomizer_msu1-131.pcm
+ren *-32.pcm sm_alttp_randomizer_msu1-132.pcm
+ren *-33.pcm sm_alttp_randomizer_msu1-133.pcm
+ren *-34.pcm sm_alttp_randomizer_msu1-134.pcm
+ren *-35.pcm sm_alttp_randomizer_msu1-135.pcm
+ren *-36.pcm sm_alttp_randomizer_msu1-136.pcm
+ren *-37.pcm sm_alttp_randomizer_msu1-137.pcm
+ren *-38.pcm sm_alttp_randomizer_msu1-138.pcm
+ren *-39.pcm sm_alttp_randomizer_msu1-139.pcm
+ren *-40.pcm sm_alttp_randomizer_msu1-140.pcm
 ren *-99.pcm sm_alttp_randomizer_msu1-99.pcm
 cd ..\..
 cd /d "%~dp0%z3_folder%"
