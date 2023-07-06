@@ -110,10 +110,10 @@ ren *-61.pcm sm_alttp_randomizer_msu1-61.pcm
 cd ..\..
 cd /d "%~dp0%sm_folder%"
 for %%I in (*.pcm) do (
-    copy "%%I" "%~dp0%smz3_folder%\"
+    move "%%I" "%~dp0%smz3_folder%\"
 )
 cd ..\..
 cd /d "%~dp0%z3_folder%"
 for %%I in (*.pcm) do (
-    copy "%%I" "%~dp0%smz3_folder%\"
+    move "%%I" "%~dp0%smz3_folder%\"
 )
