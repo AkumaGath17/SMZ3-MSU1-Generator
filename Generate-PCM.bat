@@ -43,7 +43,6 @@ ren *-37.pcm sm_alttp_randomizer_msu1-137.pcm
 ren *-38.pcm sm_alttp_randomizer_msu1-138.pcm
 ren *-39.pcm sm_alttp_randomizer_msu1-139.pcm
 ren *-40.pcm sm_alttp_randomizer_msu1-140.pcm
-ren *-99.pcm sm_alttp_randomizer_msu1-99.pcm
 cd ..\..
 cd /d "%~dp0%z3_folder%"
 ren *-1.pcm sm_alttp_randomizer_msu1-1.pcm
@@ -79,7 +78,6 @@ ren *-30.pcm sm_alttp_randomizer_msu1-30.pcm
 ren *-31.pcm sm_alttp_randomizer_msu1-31.pcm
 ren *-32.pcm sm_alttp_randomizer_msu1-32.pcm
 ren *-33.pcm sm_alttp_randomizer_msu1-33.pcm
-ren *-34.pcm sm_alttp_randomizer_msu1-34.pcm
 ren *-35.pcm sm_alttp_randomizer_msu1-35.pcm
 ren *-36.pcm sm_alttp_randomizer_msu1-36.pcm
 ren *-37.pcm sm_alttp_randomizer_msu1-37.pcm
@@ -107,6 +105,7 @@ ren *-58.pcm sm_alttp_randomizer_msu1-58.pcm
 ren *-59.pcm sm_alttp_randomizer_msu1-59.pcm
 ren *-60.pcm sm_alttp_randomizer_msu1-60.pcm
 ren *-61.pcm sm_alttp_randomizer_msu1-61.pcm
+ren *-34.pcm sm_alttp_randomizer_msu1-99.pcm
 cd ..\..
 cd /d "%~dp0%sm_folder%"
 for %%I in (*.pcm) do (
