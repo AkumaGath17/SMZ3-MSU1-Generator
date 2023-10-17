@@ -7,7 +7,7 @@ The Legend of Zelda: A Link to the Past Tracks (Expanded Soundtrack)
 Track 99:
 Star Fox End Credits by Andrés Soto (VGOScore)
 https://www.youtube.com/watch?v=XZ4VETKgJG8
-(Put this track on the Super Metroid directory)
+(Uses ALTTP Final Credits by default)
 
 Track 101 - 129:
 Super Metroid Tracks
