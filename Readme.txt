@@ -4,9 +4,7 @@
 
 3) Rename a ROM File to "sm_alttp_randomizer_msu1.sfc" and place it in "smz3_msu" directory folder.
 
-4) Make sure that "sm_alttp_randomizer_msu1.msu" exist in the "smz3_msu" directory folder.
-
-5) Wait for the program to finish. You may see an error message but that should be optional .pcm missing files.
+4) Wait for the program to finish. You may see an error message but that should be optional .pcm missing files.
 
 Folders, output .pcm and rom names can be modified at the beginning of the .bat file code.
 
