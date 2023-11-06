@@ -17,3 +17,7 @@ Super Metroid End Credits (Short Version)
 
 Track 131 - 140:
 Super Metroid Tracks (Expanded Soundtrack)
+
+Check each individual track here: http://alttp.mymm1.com/wiki/Z3M3:Soundtrack#Super_Metroid
+
+Recommended to use foobar2000 player to verify .pcm files.
