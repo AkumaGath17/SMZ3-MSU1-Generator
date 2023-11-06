@@ -123,3 +123,8 @@ cd /d "%~dp0%z3_folder%"
 for %%I in (*.pcm) do (
     move "%%I" "%~dp0%smz3_folder%\"
 )
+cd ..\..
+cd /d "%~dp0%smz3_folder%"
+if not exist "!name_output!.msu" (
+    type nul >!name_output!.msu
+)
