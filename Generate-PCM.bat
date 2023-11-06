@@ -126,5 +126,6 @@ for %%I in (*.pcm) do (
 cd ..\..
 cd /d "%~dp0%smz3_folder%"
 if not exist "!name_output!.msu" (
+    del "*.msu"
     type nul >!name_output!.msu
 )
